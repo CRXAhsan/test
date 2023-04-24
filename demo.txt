@@ -1,0 +1,9 @@
+Git Commands Usages
+
+1.  git --version  ( use for checking the version of git )
+2.  git help config || git config --help  ( these both commands are used for opening the git commands and thier usages in web browser )
+3.  mkdir file_name  ( this command use for making a directory in in our local storage of system )
+4.  cd file_name  ( this commad use for entering the file or directory )
+5.  git init  ( this commadn is used for initilaizing the empty git repository )
+6.  git status ( this command is use for making telling the status of the repositroy )
+7.
