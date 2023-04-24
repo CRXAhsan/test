@@ -6,4 +6,10 @@ Git Commands Usages
 4.  cd file_name  ( this commad use for entering the file or directory )
 5.  git init  ( this commadn is used for initilaizing the empty git repository )
 6.  git status ( this command is use for making telling the status of the repositroy )
-7.
+7.  git add file_name.extension  (   )
+8.  git commit -m "write the text you want to show" (   )
+9.  clear  ( it will clear all the screen )
+10. git config --global user.username your_github_profile_name  ( this command links our git to github account )
+11. git remote add origin here_link_of_github_repository  ( this command links the local repository and remote repository )
+12. git push origin master ( this command push all the files and data from local repository to remote repositry )
+13. 
